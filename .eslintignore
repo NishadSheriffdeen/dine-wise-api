@@ -3,6 +3,7 @@
 /__tests__
 /node_modules
 /dist
+/build
 /src/migrations
 jest.config.js
 jest.setup.js
